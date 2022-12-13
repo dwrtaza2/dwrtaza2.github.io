@@ -16,4 +16,5 @@ My Github page is [dwrtaza2](http://github/dwrtaza2).
     Lab 10, part 1, was one of my favorites because we learned about modular programming. Also, we learned how important it is to double-check if an output makes sense. In this case, it was to ensure the area of a rectangle was positive since a negative output is impossible. 
 
 * Lab 11
+
     Lab 11, part 2, was quite interesting since we had coded the Hilo game from scratch. So revisiting and seeing how far I had come from the start of this class was amazing. Also, integrating a new part of the game, having the game end after guessing the right answer and stopping the game when they failed after three tries, was fun to learn how to do. 
