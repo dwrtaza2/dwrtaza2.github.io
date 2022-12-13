@@ -3,11 +3,11 @@ This is my home page! My name is Dominic Wrtaza and I am a student [Cal State Fu
 
 ## Computer Sciecne Projects 
 
-My Github page is http://github/dwrtaza2.
+My Github page is [dwrtaza2](http://github/dwrtaza2).
 
 ### CPSC 120
 
-* Lab 9
+* [Lab 9]
     
     Lab 9, part 2, was my favorite because I was curious about how making a vector of a vector would work when checking the spelling of a word from a file. I was able to write a function to detect a misspelled word and return an empty vector if the file entered was not valid. Overall, I learned a lot from this lab.  
 
