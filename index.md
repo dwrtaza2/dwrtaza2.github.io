@@ -1,5 +1,5 @@
 # Hello World
-This is my home page! My name is Dominic Wrtaza and I am a student [Cal State Fullerton] (http://www.fullerton.edu/) and my major is Computer Science. 
+This is my home page! My name is Dominic Wrtaza and I am a student [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Science. 
 
 ## Computer Sciecne Projects 
 
